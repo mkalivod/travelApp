@@ -8,9 +8,9 @@ module.exports = {
     return queryInterface.bulkInsert('Cities', [
       { cityName: "Dubai", cityImageURL: "http://whatson.ae/dubai/wp-content/uploads/2016/05/Dubai-2016-9838.jpg", createdAt: new Date(), updatedAt: new Date() },
       { cityName: "Kakslauttanen", cityImageURL: "http://cdn.images.express.co.uk/img/dynamic/25/590x/The-glass-igloos-624757.jpg", createdAt: new Date(), updatedAt: new Date() },
-      { cityName: "Ko Samui,", cityImageURL: "http://www.thetravelerszone.com/wp-content/uploads/2010/02/thailand.jpg", createdAt: new Date(), updatedAt: new Date() },
-      { cityName: "Portland", cityImageURL: "http://cdn29.elitedaily.com/content/uploads/2015/10/20130158/15514312032_11913b6b95_o.jpg", createdAt: new Date(), updatedAt: new Date() },
-      { cityName: "Key West", cityImageURL: "http://cdn29.elitedaily.com/content/uploads/2015/10/21113221/357940337_9938deefcd_o.jpg", createdAt: new Date(), updatedAt: new Date() },
+      { cityName: "Ko Samui", cityImageURL: "https://media-cdn.tripadvisor.com/media/photo-s/0d/f5/d6/ee/ang-thong-islands-by.jpg", createdAt: new Date(), updatedAt: new Date() },
+      { cityName: "Portland", cityImageURL: "https://www.travelportland.com/wp-content/uploads/2013/04/skyline1horizontal.jpg", createdAt: new Date(), updatedAt: new Date() },
+      { cityName: "Key West", cityImageURL: "https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/b6/key-west.jpg", createdAt: new Date(), updatedAt: new Date() },
       { cityName: "Berlin", cityImageURL: "http://i.huffpost.com/gen/1895354/thumbs/o-BERLIN-900.jpg?1", createdAt: new Date(), updatedAt: new Date() },
       { cityName: "Fira", cityImageURL: "http://i.huffpost.com/gen/1881416/thumbs/o-SANTORINI-900.jpg?6", createdAt: new Date(), updatedAt: new Date() },
       { cityName: "Florence", cityImageURL: "http://i.huffpost.com/gen/1887626/thumbs/o-FLORENCE-900.jpg?1", createdAt: new Date(), updatedAt: new Date() },
