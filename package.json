@@ -1,5 +1,5 @@
 {
-  "name": "bucketBuddiez",
+  "name": "Travel App",
   "version": "1.0.0",
   "description": "A web app that allows users to input places they would like to travel to, and then match with mutual friends who also want to go there.",
   "main": "server.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/bucketBuddiez.git"
+    "url": "https://github.com/mkalivod/travelApp"
   },
-  "author": "tomtom28",
+  "author": "Madison Kalivoda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/bucketBuddiez/issues"
+    "url": "https://github.com/mkalivod/travelApp"
   },
-  "homepage": "https://github.com/tomtom28/bucketBuddiez#readme",
+  "homepage": "https://github.com/mkalivod/travelApp#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.2",
