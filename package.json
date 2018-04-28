@@ -10,7 +10,7 @@
     "heroku-postbuild": "sequelize db:migrate && sequelize db:seed:all && node db/seed-user-likes.js"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "8.9.4"
   },
   "repository": {
     "type": "git",
