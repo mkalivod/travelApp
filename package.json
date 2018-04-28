@@ -18,9 +18,6 @@
   },
   "author": "Madison Kalivoda",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mkalivod/travelApp"
-  },
   "homepage": "https://github.com/mkalivod/travelApp#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",

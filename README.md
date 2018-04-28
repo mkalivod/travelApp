@@ -6,3 +6,5 @@ Log in or create an account, and then click on places you want to travel to in y
 
 
 # travelApp
+
+Credits to Existing application as framwork for continued development for this project: https://bucket-buddiez.herokuapp.com/ Git Hub: https://github.com/tomtom28/bucketBuddiez.git
