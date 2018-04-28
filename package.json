@@ -1,5 +1,5 @@
 {
-  "name": "Travel App",
+  "name": "trlapp2",
   "version": "1.0.0",
   "description": "A web app that allows users to input places they would like to travel to, and then match with mutual friends who also want to go there.",
   "main": "server.js",
